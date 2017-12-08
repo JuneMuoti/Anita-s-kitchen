@@ -42,3 +42,10 @@ background-size: cover;
    outline: 20px;
    outline-color: white
 }
+#party{
+  background-color: #F15A29;
+  padding:40px;
+}
+#happy{
+  padding:40px;
+}
