@@ -49,3 +49,21 @@ background-size: cover;
 #happy{
   padding:40px;
 }
+#drinks{
+  width: 600px;
+  border: 10px solid #F0F3F4;
+  padding: 60px;
+  margin: 55px;
+  outline: 20px;
+  outline-color: white
+  float: right;
+}
+#drinks2{
+  background-color:white;
+   width: 600px;
+   border: auto;
+   padding: 25px;
+   margin: auto;
+   outline: 20px;
+   outline-color: white
+}
