@@ -5,3 +5,10 @@ background-size: cover;
   margin: auto;
   height: 800px;
 }
+#breakfast{
+  background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
+  background-size: cover;
+  repeat:no-repeat;
+  padding:115px;
+  hover: background-color: white;
+  }
