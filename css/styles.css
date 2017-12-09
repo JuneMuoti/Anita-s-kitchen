@@ -9,6 +9,12 @@ background-size: cover;
   padding-left: 100px;
   padding-bottom: 0px;
 }
+#fonth1{
+  color: white;
+}
+.txt-white{
+  color:white;
+}
 #breakfast{
   background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
   background-size: cover;
