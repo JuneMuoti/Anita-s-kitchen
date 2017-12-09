@@ -67,3 +67,18 @@ background-size: cover;
    outline: 20px;
    outline-color: white
 }
+#foods{
+      background-image: url("/home/june/Documents/mpft-ip/ip2/assets/backgrounds/foodsBg.jpg");
+      background-size: cover;
+      padding:200px;
+      background-position: center;
+
+      margin: 0;
+    }
+    #food2{
+      bbackground-color: lightgrey;
+    padding : 100px;
+    margin:0px;
+    background-color: white;
+
+    }
