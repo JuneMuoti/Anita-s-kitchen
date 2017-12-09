@@ -82,3 +82,30 @@ background-size: cover;
     background-color: white;
 
     }
+    #customers{
+  background-color: none;
+    width: auto;
+
+    column-gap: 10px;
+    column-rule: 4px outset #ff00ff;
+    column-rule-style: outset;
+
+
+    padding: 60px;
+    margin: 200px;
+    border: 10px solid white;
+    box-shadow: 10px 6px 10px 6px #eff3f9;
+    text-align: center;
+
+}
+#h1customers{
+color:#F15A29;
+
+}
+.menu{
+  padding:80px;
+  margin:auto;
+  border: auto;
+
+
+}
