@@ -157,3 +157,8 @@ border: 0;
       margin:inherit;
 
     }
+    #page-logo{
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 90px;
+      }
