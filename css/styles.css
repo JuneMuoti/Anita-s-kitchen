@@ -5,6 +5,10 @@ background-size: cover;
   margin: auto;
   height: 800px;
 }
+#logo{
+  padding-left: 100px;
+  padding-bottom: 0px;
+}
 #breakfast{
   background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
   background-size: cover;
@@ -12,15 +16,26 @@ background-size: cover;
   padding:115px;
   hover: background-color: white;
   }
+  #breakfast:hover { color: white;
+  opacity: 0.3
+}
+
   #dinner{
   background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/dinner.jpg");
   background-size: cover;
   padding:115px;
 }
+#dinner:hover { color: white;
+  opacity: 0.3
+}
+
 #lunch{
   background-image: url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/lunch.jpg");
   background-size: cover;
   padding:115px;
+}
+#lunch:hover { color: white;
+  opacity: 0.3
 }
 #fast-food{
 
