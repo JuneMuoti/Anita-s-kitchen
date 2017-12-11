@@ -113,6 +113,7 @@ li a:hover:not(.active) {
 }
 #happy{
   padding:40px;
+  background-color: grey;
 }
 #breakfast{
   background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
@@ -273,6 +274,6 @@ border: 0;
         margin-right: auto;
         padding-top: 90px;
       }
-.row{
+.rowfood{
   margin-left: 100px;
 }
