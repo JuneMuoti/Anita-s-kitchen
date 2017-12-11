@@ -1,3 +1,6 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
 #intro{
   background-image:url("/home/june/Documents/mpft-ip/ip2/assets/backgrounds/landing.jpg");
 background-size: cover;
@@ -140,23 +143,31 @@ li a:hover:not(.active) {
   opacity: 0.3
 }
 #center{
-  margin: 200px;
-  padding:10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 400px;
+  margin-top: 200px;
+  padding: 0px;
+
 
 }
 #center2{
-  margin: 200px;
-  padding:10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 400px;
+  margin-top: 200px;
+  padding: 0px;
 }
 #fast-food{
 
-   width: 600px;
+   width: 700px;
    border: 10px solid #F0F3F4;
-   padding: 60px;
+   padding: 42px;
    margin: 55px;
    outline: 20px;
    outline-color: white
    float: right;
+   height: 500px;
 }
 #fastfood2{
 
@@ -212,8 +223,8 @@ li a:hover:not(.active) {
     column-rule-style: outset;
 
 
-    padding: 60px;
-    margin: 200px;
+    padding: 20px;
+    margin: 40px;
     border: 10px solid white;
     box-shadow: 10px 6px 10px 6px #eff3f9;
     text-align: center;
@@ -224,8 +235,8 @@ color:#F15A29;
 
 }
 .menu{
-  padding:80px;
-  margin:auto;
+  padding:0px;
+  margin:0px;
   border: auto;
 
 
@@ -262,3 +273,6 @@ border: 0;
         margin-right: auto;
         padding-top: 90px;
       }
+.row{
+  margin-left: 100px;
+}
