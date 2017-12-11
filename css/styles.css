@@ -2,7 +2,7 @@ body{
   font-family: 'Open Sans', sans-serif;
 }
 #intro{
-  background-image:url("/home/june/Documents/mpft-ip/ip2/assets/backgrounds/landing.jpg");
+  background-image:url("/home/june/Documents/anitas-kitchen/assets/backgrounds/landing.jpg");
 background-size: cover;
 background-attachment: fixed;
   padding: auto;
@@ -116,7 +116,7 @@ li a:hover:not(.active) {
   background-color: grey;
 }
 #breakfast{
-  background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
+  background-image:url("/home/june/Documents/anitas-kitchen/assets/foodtop/breakfast.jpg");
   background-size: cover;
   repeat:no-repeat;
   padding:115px;
@@ -127,7 +127,7 @@ li a:hover:not(.active) {
 }
 
   #dinner{
-  background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/dinner.jpg");
+  background-image:url("/home/june/Documents/anitas-kitchen/assets/foodtop/dinner.jpg");
   background-size: cover;
   padding:115px;
 }
@@ -136,7 +136,7 @@ li a:hover:not(.active) {
 }
 
 #lunch{
-  background-image: url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/lunch.jpg");
+  background-image: url("/home/june/Documents/anitas-kitchen/assets/foodtop/lunch.jpg");
   background-size: cover;
   padding:115px;
 }
@@ -200,7 +200,7 @@ li a:hover:not(.active) {
    outline-color: white
 }
 #foods{
-      background-image: url("/home/june/Documents/mpft-ip/ip2/assets/backgrounds/foodsBg.jpg");
+      background-image: url("/home/june/Documents/anitas-kitchen/assets/backgrounds/foodsBg.jpg");
       background-size: cover;
       padding:200px;
       background-position: center;
@@ -243,7 +243,7 @@ color:#F15A29;
 
 }
 .subscribe{
-  background-image: url("/home/june/Documents/mpft-ip/ip2/assets/backgrounds/subscribe.jpg");
+  background-image: url("/home/june/Documents/anitas-kitchen/assets/backgrounds/subscribe.jpg");
   padding:100px;
   align:center;
   background-repeat: no-repeat;
