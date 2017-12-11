@@ -147,7 +147,7 @@ li a:hover:not(.active) {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 400px;
-  margin-top: 200px;
+  margin-top: 0px;
   padding: 0px;
 
 
@@ -156,19 +156,19 @@ li a:hover:not(.active) {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 400px;
-  margin-top: 200px;
+  margin-top: 0px;
   padding: 0px;
 }
 #fast-food{
 
-   width: 700px;
+   width: 550px;
    border: 10px solid #F0F3F4;
-   padding: 42px;
-   margin: 55px;
+   padding: 20px;
+   margin: 0px;
    outline: 20px;
    outline-color: white
    float: right;
-   height: 500px;
+
 }
 #fastfood2{
 
@@ -182,10 +182,10 @@ li a:hover:not(.active) {
 }
 
 #drinks{
-  width: 600px;
+  width: 550px;
   border: 10px solid #F0F3F4;
-  padding: 60px;
-  margin: 55px;
+  padding: 10px;
+  margin: 0px;
   outline: 20px;
   outline-color: white
   float: right;
