@@ -104,6 +104,13 @@ li a:hover:not(.active) {
 .txt-white{
   color:white;
 }
+#party{
+  background-color: #F15A29;
+  padding:40px;
+}
+#happy{
+  padding:40px;
+}
 #breakfast{
   background-image:url("/home/june/Documents/mpft-ip/ip2/assets/foodtop/breakfast.jpg");
   background-size: cover;
@@ -132,6 +139,15 @@ li a:hover:not(.active) {
 #lunch:hover { color: white;
   opacity: 0.3
 }
+#center{
+  margin: 200px;
+  padding:10px;
+
+}
+#center2{
+  margin: 200px;
+  padding:10px;
+}
 #fast-food{
 
    width: 600px;
@@ -152,13 +168,7 @@ li a:hover:not(.active) {
    outline: 20px;
    outline-color: white
 }
-#party{
-  background-color: #F15A29;
-  padding:40px;
-}
-#happy{
-  padding:40px;
-}
+
 #drinks{
   width: 600px;
   border: 10px solid #F0F3F4;
@@ -183,11 +193,12 @@ li a:hover:not(.active) {
       padding:200px;
       background-position: center;
 
-      margin: 0;
+      margin: ;
+      height:700px;
     }
     #food2{
       bbackground-color: lightgrey;
-    padding : 100px;
+    padding : 0px;
     margin:0px;
     background-color: white;
 
